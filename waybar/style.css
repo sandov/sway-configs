@@ -101,11 +101,11 @@ window#waybar.chromium {
 }
 
 #clock {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
 }
 
 #battery {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
     color: #000000;
 }
 
@@ -145,11 +145,11 @@ label:focus {
 }
 
 #backlight {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
 }
 
 #network {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
 }
 
 #network.disconnected {
@@ -157,12 +157,12 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
     color: #000000;
 }
 
 #pulseaudio.muted {
-    background-color: #e1b45f;
+    background-color: #bbccdd;
     color: #111111;
 }
 
@@ -219,7 +219,7 @@ label:focus {
 }
 
 #language {
-    background: #e1b45f;
+    background: #bbccdd;
     color: #111111;
     padding: 0 5px;
     margin: 2px;
