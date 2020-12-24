@@ -81,8 +81,8 @@ window#waybar.chromium {
 #mpd {
     padding: 0 10px;
     margin: 2px; 
-    margin-bottom: 3px;
-    color: #111111;
+    margin-bottom: 4px;
+    color: #333333;
 }
 
 #window,
@@ -106,7 +106,7 @@ window#waybar.chromium {
 
 #battery {
     background-color: #bbccdd;
-    color: #000000;
+    color: #333333;
 }
 
 #battery.charging {
@@ -117,7 +117,7 @@ window#waybar.chromium {
 @keyframes blink {
     to {
         background-color: #ffffff;
-        color: #000000;
+        color: #333333;
     }
 }
 
@@ -137,7 +137,7 @@ label:focus {
 
 #cpu {
     background-color: #2ecc71;
-    color: #000000;
+    color: #333333;
 }
 
 #memory {
@@ -158,12 +158,12 @@ label:focus {
 
 #pulseaudio {
     background-color: #bbccdd;
-    color: #000000;
+    color: #333333;
 }
 
 #pulseaudio.muted {
     background-color: #bbccdd;
-    color: #111111;
+    color: #333333;
 }
 
 #custom-media {
@@ -220,7 +220,7 @@ label:focus {
 
 #language {
     background: #bbccdd;
-    color: #111111;
+    color: #333333;
     padding: 0 5px;
     margin: 2px;
     margin-bottom: 3px;
