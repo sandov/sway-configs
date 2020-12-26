@@ -80,8 +80,7 @@ window#waybar.chromium {
 #idle_inhibitor,
 #mpd {
     padding: 0 10px;
-    margin: 2px; 
-    margin-bottom: 4px;
+    margin: 6px 3px; 
     color: #333333;
 }
 
@@ -222,7 +221,6 @@ label:focus {
     background: #bbccdd;
     color: #333333;
     padding: 0 5px;
-    margin: 2px;
-    margin-bottom: 3px;
+    margin: 6px 3px;
     min-width: 16px;
 }
