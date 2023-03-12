@@ -67,7 +67,7 @@ output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 
 input "type:keyboard" xkb_options caps:swapescape
 input * accel_profile flat
-input "type:touchpad"{
+input "type:touchpad" {
 	# enable tap to click
 	tap enable
 }
